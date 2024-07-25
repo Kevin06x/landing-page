@@ -56,6 +56,12 @@ body {
 
 }
 
+.skills {
+	display: flex;
+	gap: 100px;
+	color: white;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
